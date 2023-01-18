@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
-import PAGES.HomePage;
+
 import PAGES.LoginPage;
 import PAGES.DropDownpage;
 
@@ -30,7 +30,7 @@ public class DropDownTC_1 {
     
 public void test() throws InterruptedException {
 		
-        HomePage home = new HomePage(driver);
+        
 		
 		
 		

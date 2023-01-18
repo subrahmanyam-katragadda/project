@@ -14,14 +14,14 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
-import PAGES.HomePage;
+
 import PAGES.LoginPage;
 
 public class LoginTC1 {
 	
 	WebDriver driver;
 	
-	@BeforeTest
+	@BeforeTest(description = "This TC Will Lunch The Browser")
 	
 	public void beforetest() {
 		
@@ -35,11 +35,11 @@ public class LoginTC1 {
 	}
 
 	
-	@Test
+	@Test(description = "This Tc Will Perform Valid Login")
 	
 	public void test() throws InterruptedException, IOException {
 		
-        HomePage home = new HomePage(driver);
+        
 		
 		
 		
@@ -60,7 +60,7 @@ public class LoginTC1 {
 		
 	}
 	
-	@AfterTest
+	@AfterTest(description = "This TC Will perfome Close the Browser ")
 	
 	public void aftertest() {
 		
