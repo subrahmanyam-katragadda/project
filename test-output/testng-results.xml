@@ -14,33 +14,33 @@
       <![CDATA[===== Select One Item =======,true]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-01-18T16:04:16 IST" name="Default suite" finished-at="2023-01-18T16:04:39 IST" duration-ms="23018">
+  <suite started-at="2023-01-18T17:39:28 IST" name="Default suite" finished-at="2023-01-18T17:39:52 IST" duration-ms="23392">
     <groups>
     </groups>
-    <test started-at="2023-01-18T16:04:16 IST" name="Default test" finished-at="2023-01-18T16:04:39 IST" duration-ms="23018">
+    <test started-at="2023-01-18T17:39:28 IST" name="Default test" finished-at="2023-01-18T17:39:52 IST" duration-ms="23392">
       <class name="TESTCASES.SelectoneitemTC">
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASES.SelectoneitemTC@57a3af25]" started-at="2023-01-18T16:04:16 IST" name="beforetest" description="This TC Will Lunch The Browser" finished-at="2023-01-18T16:04:20 IST" duration-ms="4224" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASES.SelectoneitemTC@1623b78d]" started-at="2023-01-18T17:39:28 IST" name="beforetest" description="This TC Will Lunch The Browser" finished-at="2023-01-18T17:39:33 IST" duration-ms="5062" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====Browser Session Started=======,true]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method signature="test()[pri:0, instance:TESTCASES.SelectoneitemTC@57a3af25]" started-at="2023-01-18T16:04:20 IST" name="test" description="This Tc Will Perform Valid Login" finished-at="2023-01-18T16:04:31 IST" duration-ms="10271" status="PASS">
+        <test-method signature="test()[pri:0, instance:TESTCASES.SelectoneitemTC@1623b78d]" started-at="2023-01-18T17:39:33 IST" name="test" description="This Tc Will Perform Valid Login" finished-at="2023-01-18T17:39:44 IST" duration-ms="10345" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====Login Session Started=======,true]]>
             </line>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test1()[pri:0, instance:TESTCASES.SelectoneitemTC@57a3af25]" started-at="2023-01-18T16:04:31 IST" name="test1" description="This TC will perform select one item to the cart" finished-at="2023-01-18T16:04:39 IST" duration-ms="8047" status="PASS">
+        <test-method signature="test1()[pri:0, instance:TESTCASES.SelectoneitemTC@1623b78d]" started-at="2023-01-18T17:39:44 IST" name="test1" description="This TC will perform select one item to the cart" finished-at="2023-01-18T17:39:51 IST" duration-ms="7550" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===== Select One Item =======,true]]>
             </line>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:TESTCASES.SelectoneitemTC@57a3af25]" started-at="2023-01-18T16:04:39 IST" name="aftertest" description="This TC perform Close the Browser" finished-at="2023-01-18T16:04:39 IST" duration-ms="377" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TESTCASES.SelectoneitemTC@1623b78d]" started-at="2023-01-18T17:39:51 IST" name="aftertest" description="This TC perform Close the Browser" finished-at="2023-01-18T17:39:52 IST" duration-ms="332" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===== Select One Item =======,true]]>
